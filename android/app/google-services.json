@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029523485372",
+    "project_id": "assignmentofgetmetherapy",
+    "storage_bucket": "assignmentofgetmetherapy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029523485372:android:59e0447d29a0899519d6b9",
+        "android_client_info": {
+          "package_name": "com.getmetherapyassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029523485372-n00h4utr3t1plmo881675b38tdh9u27d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getmetherapyassignment",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1029523485372-o0c3ur6rjfvh4drliuunn8me55n846df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZPIdvtddghQzG-NojEh7YyP_OolRyK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029523485372-o0c3ur6rjfvh4drliuunn8me55n846df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
